@@ -11,6 +11,7 @@ This application is free of virus or malware </br>
 Xcode 8.3<br/>
 Swift 3<br/>
 iBeacon<br/>
+IOS 10<br/>
 
 <h3>Online Application</h3>
 Distribution itch(Web and Desktop): https://goo.gl/Wq1nuD </br>
